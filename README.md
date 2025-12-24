@@ -29,7 +29,6 @@ It utilizes the **Yahoo Finance API** to fetch time-series data and performs tec
 *Below is an example analysis generated for **Apple Inc. (AAPL)**, showing the price action relative to its 20-day moving average over a 1-year period.*
 
 ![Stock Analysis Chart](analysis_result.png)
-*(Note: Please upload your generated chart image to the repository and name it 'analysis_result.png')*
 
 ## How to Run
 
